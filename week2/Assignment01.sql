@@ -28,7 +28,7 @@ INSERT INTO orders1 VALUES(10310,77,'20/09/96');
 
 INSERT INTO customers1 VALUES(1, 'Alfreds Futterkiste','Maria Anders','Germany');
 INSERT INTO customers1 VALUES(2, 'Ana Trujillo Emparedados y helados','Ana Trujillo','Mexico');
-INSERT INTO customers1 VALUES(3, 'Antonio Moreno Taquería','	Antonio Moreno','Mexico');
+INSERT INTO customers1 VALUES(3, 'Antonio Moreno TaquerÃ­a','	Antonio Moreno','Mexico');
 
 
 SELECT * FROM orders1;
