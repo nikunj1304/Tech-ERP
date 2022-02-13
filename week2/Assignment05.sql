@@ -18,7 +18,7 @@ Select * FROM employee_yos;
 --column aliases for expressions such as full_name for first_name || ' ' || last_name and yos for 
 --FLOOR( months_between( CURRENT_DATE, hire_date )/ 12 ).
 
---If you don’t want to use column aliases in the query, you must define them in the CREATE VIEWclause:
+--If you donâ€™t want to use column aliases in the query, you must define them in the CREATE VIEWclause:
 
 CREATE OR REPLACE VIEW employee_yos (employee_id, full_name, yos) AS
 SELECT
